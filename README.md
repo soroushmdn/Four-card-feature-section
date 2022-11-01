@@ -1,4 +1,7 @@
-# Four-card-feature-section
-Four card feature section - Frontend mentor challenge
+# Four card feature section
+##  [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK)
 
-![_D__Web%20Development__my%20project_Main%20projects_Frontend%20mentor%20-%20Four%20card%20feature%20section_index html](https://user-images.githubusercontent.com/95019708/169155911-d3918978-32c1-4c0b-bef1-f901ec7f389f.png)
+### Responsive Landing Page Using HTML CSS & JavaScript.
+
+- Developed first for Desktop then for Mobile devices.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
